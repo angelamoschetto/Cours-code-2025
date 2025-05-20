@@ -1,0 +1,36 @@
+/* style.css */
+body{
+  background: rgb(245,245,270);
+  color: darkred;
+  font-size: 20px;
+  font-family: Helvetica;
+
+}
+h1{
+  font-family: "bebas neue";
+  color: red;
+  font-weight: bolder;
+  font-size: 40px;
+}
+h2 {
+  font-family: "bebas neue";
+  color: black;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: pink;
+  font-size : 20px
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.shadow{
+  width: 300px;
+}
